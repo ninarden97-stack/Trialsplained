@@ -73,12 +73,11 @@ Diabetes | Cardiovascular | Migraines | Dementia | Mental Health | Longevity
 
 ## Repository Contents — Full Documentation Stack
 
-This repository contains the complete senior PM, CPO, and DPO-level documentation for Trialsplained. This is a portfolio document as much as a product repo.
+This repository contains the complet documentation for Trialsplained. This is a portfolio document as much as a product repo.
 
 | File | What It Shows |
 |------|--------------|
 | `README.md` | Product overview |
-| `PM_SPEC.md` | Full product specification, user stories, acceptance criteria |
 | `DECISION_LOG.md` | Every significant product decision and rationale |
 | `DESIGN_AND_METRICS.md` | Design decisions, success metrics, what was rejected |
 | `ETHICS.md` | Ethical commitments, vulnerability-aware design, known gaps |
@@ -87,10 +86,6 @@ This repository contains the complete senior PM, CPO, and DPO-level documentatio
 | `RISK_REGISTER.md` | Full risk register with likelihood/impact scoring |
 | `LEGAL_AND_IP.md` | IP ownership, copyright, trademark, liability, third-party obligations |
 | `DATA_PROTECTION.md` | GDPR compliance, DPO framework, data classification, breach plan |
-| `COMMERCIAL_STRATEGY.md` | Go-to-market, pilot strategy, pricing, revenue projections |
-| `OPERATIONS_AND_IMPLEMENTATION.md` | Implementation roadmap, governance, QA, incident response |
-| `STAKEHOLDER_AND_PITCH.md` | Pitch framework, objection handling, interview prep |
-| `PORTFOLIO_INDEX.md` | Navigation guide — which doc to send to which audience |
 | `LICENSE.md` | Copyright and usage terms |
 
 ---
@@ -107,7 +102,7 @@ This is not a commercial product. It has no investors, no advertising, and no da
 
 Found an error in a summary? Think a trial is missing? Want to discuss a pilot?
 
-→ feedback@trialsplained.com
+→ ninarden@gmail.com
 → Or use the "Is this accurate?" button on any trial card
 
 ---

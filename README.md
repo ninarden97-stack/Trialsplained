@@ -7,7 +7,6 @@ Trialsplained is a plain-language clinical trial finder for patients, families, 
 Built on International Women's Day 2026 as part of SheBuilds — a 24-hour build challenge powered by Lovable.
 
 🌐 [trialsplained.lovable.app](https://trialsplained.lovable.app)
-📧 feedback@trialsplained.com
 🗓 Built: 8 March 2026
 
 ---

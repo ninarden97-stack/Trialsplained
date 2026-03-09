@@ -32,5 +32,6 @@
 ![How It Works](<img width="1772" height="1042" alt="Trialsplained Ap 5" src="https://github.com/user-attachments/assets/33d68ea5-53fa-4a85-bd6e-5f9652486078" />)
 
 ## Mobile View
-![Mobile View](<img width="533" height="950" alt="image" src="https://github.com/user-attachments/assets/1dbcc849-8a15-4c4a-9f68-e7d504fd66a2" />
+![Mobile View](<img width="918" height="1035" alt="image" src="https://github.com/user-attachments/assets/dddfe0ac-c487-4f00-855c-8b329bd17095" />
+
 )

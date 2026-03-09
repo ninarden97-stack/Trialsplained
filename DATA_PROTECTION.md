@@ -11,7 +11,7 @@
 |-------|--------|
 | Controller | Nina Arden (sole trader) |
 | Product | Trialsplained |
-| Contact | hello@trialsplained.com |
+| Contact | ninarden@gmail.com |
 | ICO Registration | Not yet registered — required before public launch |
 | DPO | Not required at current scale — Nina Arden acts as responsible person |
 

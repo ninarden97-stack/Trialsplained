@@ -6,7 +6,7 @@ This project is shared publicly for transparency and portfolio purposes.
 
 Commercial use, redistribution, or creation of derivative works — in whole or in part — requires written permission from the author.
 
-Contact: hello@trialsplained.com
+Contact: ninarden@gmail.com
 
 ---
 

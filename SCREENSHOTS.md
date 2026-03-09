@@ -6,8 +6,8 @@
 ![Search Results]<img width="1888" height="1051" alt="Trialsplained Ap 2" src="https://github.com/user-attachments/assets/7b89d913-44b5-435a-a026-7658fd1e33bb" />
 
 ## Search Results
-![Search Results](<img width="1901" height="1097" alt="Trialsplained Ap 1" src="https://github.com/user-attachments/assets/5f9eb671-9c5e-4115-b6de-e973771662aa" />
-)
+![Search Results](<img width="1901" height="1097" alt="Trialsplained Ap 1" src="https://github.com/user-attachments/assets/e1541736-b3b2-43bd-9d08-fa5ce7695373" />
+
 
 ## Trial Card — Patient View
 ![Trial Card Patient View](<img width="1675" height="1086" alt="image" src="https://github.com/user-attachments/assets/c0a16c85-e071-4738-96c9-6c4406dc3283" />
@@ -18,9 +18,11 @@
 )
 
 ## Browse by Condition
-![Browse by Condition](<img width="1898" height="1042" alt="Trialsplained Ap 3" src="https://github.com/user-attachments/assets/d889a3d6-35a5-41dd-8399-f0b38a316fa5" />
+![Browse by Condition](<img width="1898" height="1042" alt="Trialsplained Ap 3" src="https://github.com/user-attachments/assets/ef93cccf-0c86-4cb9-a732-6fd046e338b6" />
+
 )
-![Browse by Condition](<img width="1850" height="1031" alt="Trialsplained Ap 4" src="https://github.com/user-attachments/assets/3fccd8b7-d8c7-436f-abd7-b8e1c593d208" />
+![Browse by Condition](<img width="1850" height="1031" alt="Trialsplained Ap 4" src="https://github.com/user-attachments/assets/8b986e8a-e94f-4874-bcfa-cf65902ec94f" />
+
 )
 
 ## For Organisations
